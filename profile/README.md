@@ -12,4 +12,4 @@ Yet another Kernel organization which aims to provide Kernel having best stabili
 - [Arnav Puranik](https://github.com/arnavpuranik) - Core / Redmi Note 5 Pro Dev
 - [wHoEMi](https://github.com/wHo-EM-i) - Core / Helper
 - [Yash](https://github.com/ayash92) - The Redmi Note 9S , Redmi Note 9Pro, Redmi Note 10Lite, Redmi Note 9Pro Max, POCO M2 Pro Dev
-- [Gian Paolo Estacio](https://github.com/eun0115) - Realmeme 5 Gawd Dev
+- [Gian Paolo Estacio](https://github.com/eun0115) - Realme 5, 5i, 5s and Realme 5 Pro
