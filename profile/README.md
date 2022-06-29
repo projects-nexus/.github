@@ -1,4 +1,4 @@
-![nexus](https://github.com/projects-nexus/.github/blob/master/banner/nexus.png)
+![nexus](https://github.com/projects-nexus/.github/blob/master/banner/nexuskernel.png)
 ## Project Nexus
 Yet another Kernel organization which aims to provide Kernel having best stability, performance, latest updates and moreover the best user experience.
 
@@ -6,7 +6,6 @@ Yet another Kernel organization which aims to provide Kernel having best stabili
 
 - [Zeetaa](https://github.com/NotZeetaa) - Founder / Poco F2 Pro & F3
 - [Akira](https://github.com/akirasupr) - Co-founder / Poco X3 Pro
-- [RoHaN](https://github.com/reaPeR1010) - Helper / Moto G5s Plus
 - [Prashant](https://github.com/ImPrashantt) - Redmi Note 7S / 10 Pro
 - [Ayush](https://github.com/ImSpiDy) - Redmi Note 7/7s / Poco F1
 - [Arnav Puranik](https://github.com/arnavpuranik) - Redmi Note 5 Pro
