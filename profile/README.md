@@ -12,4 +12,5 @@ Yet another Kernel organization which aims to provide Kernel having best stabili
 - [Hridaya](https://github.com/kawaaii) - Gauguin ( Xiaomi SDM 750G devices )
 - [Yash](https://github.com/ayash92) - Miatoll ( Xiaomi SDM 720G devices )
 - [Vesh](https://github.com/veshrao) - Redmi 4A / 5A
+- [RoHaN](https://github.com/reaPeR1010) - Helper
 - [wHoEMi](https://github.com/wHo-EM-i) - Nexus Tweak / Helper
