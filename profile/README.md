@@ -8,6 +8,6 @@ Yet another Kernel organization which aims to provide Kernel having best stabili
 
 ### Our Team!
 
-• [Prashant](https://github.com/ImPrashantt), [Ayush](https://github.com/ImSpiDy), [Arnav Puranik](https://github.com/arnavpuranik), [Hridaya](https://github.com/kawaaii), [Yash](https://github.com/ayash92), [Vesh](https://github.com/veshrao), [RoHaN](https://github.com/reaPeR1010) & [wHoEMi](https://github.com/wHo-EM-i)
+• [Prashant](https://github.com/Prashant-1695), [Ayush](https://github.com/ImSpiDy), [Arnav Puranik](https://github.com/arnavpuranik), [Hridaya](https://github.com/kawaaii), [Yash](https://github.com/ayash92), [RoHaN](https://github.com/reaPeR1010), [wHoEMi](https://github.com/wHo-EM-i), [Vesh](https://github.com/veshrao) & [Mayur](https://github.com/xenxynon)
 
 
